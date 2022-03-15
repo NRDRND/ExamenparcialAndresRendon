@@ -8,8 +8,8 @@
 
 2. Me gusta que la universidad exiga siempre la excelencia
     - Me gusta que los maestros sean comprensivos.
-3. Mención especial para @Crono19 porque es un buen pana mio.   :floppy_disk:
+3. Mención especial para @Crono19 @PepisSaur53 porque es un buen pana mio.   :floppy_disk:
 
-4. * Python
+4. Python
  - me gustan muchos los ciclos dentro de python
  - me parece interesante el programación en python ya que se parece al lenguaje humano
