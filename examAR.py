@@ -7,3 +7,4 @@ else:
   print('Impar')
 
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+print('José Andrés Rendón HErnández -1522822-')
