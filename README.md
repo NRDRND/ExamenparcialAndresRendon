@@ -4,10 +4,10 @@
 
 1. Mi curso favorito es introducción a la ingeniería
 
--(no lo digo por que quiera puntos extras):alien:
+    -(no lo digo por que quiera puntos extras):alien:
 
 2. Me gusta que la universidad exiga siempre la excelencia
 
 3. Me gusta que los maestros sean comprensivos.
 
--Mención especial para @Crono19 porque es un buen pana mio.:floppy_disk:
+    -Mención especial para @Crono19 porque es un buen pana mio.:floppy_disk:
